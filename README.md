@@ -1,4 +1,7 @@
 ## Hi there 👋
+a U+2192 b
+a :arrow_right: b 
+a $\rightarrow$ b
 
 <!--
 **ntsec7/ntsec7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
