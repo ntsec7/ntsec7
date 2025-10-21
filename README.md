@@ -14,6 +14,13 @@
 * Java &ensp; ➡ &ensp; Medium
 * HTML5 &ensp; ➡ &ensp; Medium
 
+## GitHub  Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ntsec7&theme=burnt-neon)](https://git.io/streak-stats)
+
+![ntsec7's Stats](https://github-readme-stats.vercel.app/api?username=ntsec7&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
+![ntsec7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ntsec7&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
