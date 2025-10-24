@@ -10,7 +10,7 @@
 
 <p align="center">
   
-  <h3 align="center"> Bases de Datos</h3>
+  <h3 align="center"> Database</h3>
   <p align="center">
     <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square" />  
     <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white&style=flat-square" />   
@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white&style=flat-square" />
   </p>
 
-  <h3 align="center"> Programación</h3>
+  <h3 align="center"> Programming</h3>
   <p align="center">
     <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=flat-square" /> 
     <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=flat-square" />   
@@ -33,7 +33,7 @@
     <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat-square" />
   </p>
 
-  <h3 align="center"> Web e Internet</h3>
+  <h3 align="center"> Web & Internet</h3>
   <p align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" />  
     <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" /> 
@@ -43,7 +43,7 @@
     <img src="https://img.shields.io/badge/Apache_Server-D22128?logo=apache&logoColor=white&style=flat-square" /> 
   </p>
 
-  <h3 align="center"> Diseño, Planificación y Documentación</h3>
+  <h3 align="center"> Design, Planification and Documentation</h3>
   <p align="center">
     <img src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white&style=flat-square" /> 
     <img src="https://img.shields.io/badge/UML-02569B?logo=uml&logoColor=white&style=flat-square" /> 
@@ -52,7 +52,7 @@
     <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=flat-square" /> 
   </p>
   
-  <h3 align="center"> Otros</h3>
+  <h3 align="center"> Others</h3>
   <p align="center">
     <img src="https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=flat-square" /> 
     <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white&style=flat-square" />  
