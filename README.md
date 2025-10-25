@@ -74,11 +74,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntsec7&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
 </p>
 
+## Contact
+<!-- - **LinkedIn:** [linkedin.com/in/juan-garcia](https://www.linkedin.com/in/juan-garcia) -->
+- **Correo:** ntsec.7@gmail.com
 
-<!--
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
--->
 
